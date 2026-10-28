@@ -1,0 +1,6 @@
+node_modules/
+assets/
+*.apk
+*.idsig
+*.bak-*
+.DS_Store
