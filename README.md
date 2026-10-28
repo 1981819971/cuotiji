@@ -2,7 +2,7 @@
 
 拍照识题 → 自动整理成可复习的错题本。PWA 与 Android APK 双端，数据云端同步。
 
-线上：https://cuotiji-58055.app.workbuddy.host/
+**[在线体验](https://cuotiji-58055.app.workbuddy.host/)** · 原生 JavaScript · PWA · [MIT](LICENSE)
 
 真实使用记录：1 名高三学生（数学／英语）+ 1 名初中学生（物理／数学），连续 12 天，入库 50 道错题，复习 24 次。
 
@@ -43,3 +43,7 @@ vendor/           云服务客户端 SDK
 
 - `assets/` 里的图片是真实学生的错题照片，`vendor/` 之外的第三方资源同样未入库。
 - 仓库内不含任何 API Key。云服务客户端用的是 public key，权限由后端的行级安全策略约束。
+
+## 许可证
+
+MIT，见 [LICENSE](LICENSE)。
